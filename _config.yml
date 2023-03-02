@@ -49,18 +49,18 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Conviertete en speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Conviertete en speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "<typeout> 2023"
-eventDate: "September - November, 2023"
+eventDate: "Verano, 2023"
 typeoutTextValues: '"GDG Devfest", "Hispalisfest"'
 typeoutFallback: "Hispalisfest"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Conviertete en speaker"}
  - {permalink: "/#tickets", text: "Comprar tickets"}
 
 # About Block
