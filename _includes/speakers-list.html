@@ -2,6 +2,7 @@
 <section id="speakers" class="speakers">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
+            {% comment %}
             <div class="row text-left appear-animation-trigger">
                 {% for speaker in site.data.speakers %}
                 <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
@@ -50,7 +51,8 @@
                 </div>
                 {% endfor %}
             </div> 
-            <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>     
+            {% endcomment %}
+            <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Conviertete en ponente</a>     
         </div>
     </div>
 </section>

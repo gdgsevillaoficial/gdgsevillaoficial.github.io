@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -11,24 +11,24 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Season 2023"
-email: "devfest@gdg.org.ua"
+email: "sevillagdg@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/"
+baseurl: ""
 url: "http://gdgsevillaoficial.github.io"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "gdgsevillaoficial.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "GDG Sevilla"
 organizerAlternateName: "Google Developer Group Sevilla"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "sevillagdg@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, sevilla, ml"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -42,11 +42,11 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
 #  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+#  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Horario"}
  - {permalink: "/speakers/", text: "Ponencias"}
  - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/logistics/", text: "Logistics"}
+#  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Conviertete en speaker"}
 rightNavigationButtons:
@@ -56,11 +56,11 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "<typeout> 2023"
 eventDate: "Verano, 2023"
-typeoutTextValues: '"GDG Devfest", "Hispalisfest"'
-typeoutFallback: "Hispalisfest"
+typeoutTextValues: '"GDG Devfest", "HispalisTech"'
+typeoutFallback: "HispalisTech"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Conviertete en speaker"}
- - {permalink: "/#tickets", text: "Comprar tickets"}
+ - {permalink: "javascript:;", text: "Tickets proximamente"}
 
 # About Block
 aboutTitle: "Sobre los GDG DevFest"
@@ -116,12 +116,12 @@ mapMobileCenterCoordinates: "37.382408, -5.996524"
 
 # Venue Block
 venueBlockTitle: "Lugar del evento"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
+venueBigImage: "torre-oro.jpg"
+venueSmallImage1: "setas-sevilla.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Aún por determinar"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["¡Viva Sevilla!","Llevan las sevillanas","en la mantilla", "un letrero que dice:","¡Viva Sevilla!"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -141,8 +141,8 @@ subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b052
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Venta de entradas"
+ticketsInfo: "Tu entrada te confiere acceso al evento, así como a los regalos y comida de los que dispondremos."
 ticketsOffers:
  -
   name: "Early Bird"
@@ -192,12 +192,13 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://gdg.es/", text: "GDG.es"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Contactos"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:sevillagdg@gmail.com", text: "sevillagdg@gmail.com"}
+   - {link: "mailto:asociacionuniversitariagdg@gmail.com", text: "asociacionuniversitariagdg@gmail.com"}
  -
   title: "FAQ"
   links:

@@ -14,6 +14,7 @@
 // Common styles
 .btn-default,
 .btn-primary,
+.btn-secondary,
 .btn-success,
 .btn-info,
 .btn-warning,
@@ -72,6 +73,7 @@
 // Apply the mixin to the buttons
 .btn-default { @include btn-styles($btn-default-bg); text-shadow: 0 1px 0 #fff; border-color: #ccc; }
 .btn-primary { @include btn-styles($btn-primary-bg); }
+.btn-secondary { @include btn-styles($btn-primary-bg); background-color: grey !important }
 .btn-success { @include btn-styles($btn-success-bg); }
 .btn-info    { @include btn-styles($btn-info-bg); }
 .btn-warning { @include btn-styles($btn-warning-bg); }

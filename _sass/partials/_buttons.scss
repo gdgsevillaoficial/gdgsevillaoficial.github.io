@@ -14,3 +14,15 @@
         background: $primary-color-hover;
     }
 }
+.btn-secondary {
+    color: #fff !important;
+    user-select: none;
+    text-transform: uppercase;
+    border: 0;
+    background: $secondary-color !important;
+    &:hover, &:focus, &:active, &.active {
+        outline: none;
+        color: #fff;
+        background: $secondary-color-hover;
+    }
+}

@@ -1,8 +1,7 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
+  name: "Tomás Dominguez"
+  surname: "@tomasdfen"
   thumbnailUrl: VitaliyZasadnyy.jpg
   team: true
   ribbon: 
@@ -14,9 +13,8 @@
     - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
+  name: "Adrián Román"
+  surname: "@__localhost_"
   thumbnailUrl: OlehZasadnyy.jpg
   team: true
   ribbon: 
@@ -26,9 +24,8 @@
     - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
+  name: "Juan Carlos Gomez"
+  surname: "@JuaGomRam"
   thumbnailUrl: OstapAndrusiv.jpg
   team: true
   ribbon: 
@@ -38,23 +35,57 @@
     - {name: "twitter", link: "https://twitter.com/p1f"}
     - {name: "site", link: "http://andrusiv.com/"}
 - 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
+  id: 3
+  name: "Adrià León"
+  surname: "@Adrialeogar"
   thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
+  id: 4
+  name: "Miguel González"
+  surname: "@alvarosb76"
   thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 5
+  name: "Álvaro Sanz"
+  surname: "@alvarosb76"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 6
+  name: "Carlos Luis Acuña"
+  surname: "@Acunnia"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 7
+  name: "Manuel Manga"
+  surname: "@alvarosb76"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 8
+  name: "Pablo Rendón"
+  surname: "@alvarosb76"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}

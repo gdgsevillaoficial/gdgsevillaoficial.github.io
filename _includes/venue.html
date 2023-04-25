@@ -15,10 +15,26 @@
                     </div>
                     <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
                         <div class="venue-elem venue-small-elem venue-text animated hiding" data-animation="fadeIn" data-delay="0">
+                            {% comment %}
                             <h5>{{ site.venueTitle }}</h5>
                             {% for feature in site.venueFeatures %}
                             <p>{{ feature }}</p>
                             {% endfor %}
+                            {% endcomment %}
+                            <div class="row venue-row">
+                            <div class="venue-col col-md-6" >
+                            <h5>{{ site.venueTitle }}</h5>
+                            <p>En cuanto este listo, notificaremos que en que lugar de nuestra bella ciudad se hará el evento</p>
+                            </div>
+                            
+                            <div class="venue-col hidden-sm col-md-6" >
+                            {% for feature in site.venueFeatures %}
+                            <p align="right" ><strong>{{ feature }}</strong></p>
+                            {% endfor %}
+                            <p align="center">Federico García Lorca</p>
+                            </div>
+                            </div>
+
                         </div>
                     </div>
                     <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">

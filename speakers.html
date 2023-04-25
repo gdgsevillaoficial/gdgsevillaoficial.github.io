@@ -1,15 +1,33 @@
 ---
 layout: default
-title: Speakers
+title: Nuestros grandes ponentes
 permalink: /speakers/
 modal: all
 ---
 
 {% include top-section.html %}
 
+
+<!-- Begin Speakers List-->
+<section id="speakers" class="speakers">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+<div> <h4 class="animated fadeInLeft" style="padding: 48px">Próximamente se irán añadiendo los distintos ponentes del evento. ¡Estad atentos a redes sociales! 
+</h4>
+</div>
+
+            <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Conviertete en ponente</a>     
+        </div>
+    </div>
+</section>
+<!-- End Speakers List -->
+
+
+{% comment %}
 {% if site.showSessions %}
     {% include speakers-list.html %}
 {% else %}
     {% include speakers-list-2.html %}
 {% endif %}
+{% endcomment %}
 
