@@ -2,26 +2,25 @@
   id: 0
   name: "Tomás Dominguez"
   surname: "@tomasdfen"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: tomasdfen.jpeg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "linkedin", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "twitter", link: "twitter.com/tomasdfen"}
+    - {name: "github", link: "https://github.com/tomasdfen"}
 - 
   id: 1
   name: "Adrián Román"
   surname: "@__localhost_"
-  thumbnailUrl: OlehZasadnyy.jpg
+  thumbnailUrl: adrian.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "twitter", link: "twitter.com/__localhost_"}
 - 
   id: 2
   name: "Juan Carlos Gomez"
@@ -31,61 +30,60 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "twitter", link: "https://twitter.com/JuaGomRam"}
 - 
   id: 3
   name: "Adrià León"
   surname: "@Adrialeogar"
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: adria.jpg
   team: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "twitter", link: "https://twitter.com/Adrialeogar"}
 - 
   id: 4
   name: "Miguel González"
-  surname: "@alvarosb76"
-  thumbnailUrl: ValentynShybanov.jpg
+  surname: "@MiguelGlezVi"
+  thumbnailUrl: miguel.jpg
   team: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/MiguelGlezVi"}
 - 
   id: 5
   name: "Álvaro Sanz"
   surname: "@alvarosb76"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: alvaro.jpg
   team: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/alvarosb76"}
 - 
   id: 6
-  name: "Carlos Luis Acuña"
+  name: "Carlos Acuña"
   surname: "@Acunnia"
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: acunnia.png
   team: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/Acunnia"}
 - 
   id: 7
   name: "Manuel Manga"
-  surname: "@alvarosb76"
-  thumbnailUrl: ValentynShybanov.jpg
+  surname: "@manmanrod"
+  thumbnailUrl: manu.jpg
   team: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/manmanrod"}
 - 
   id: 8
   name: "Pablo Rendón"
-  surname: "@alvarosb76"
+  surname: ""
   thumbnailUrl: ValentynShybanov.jpg
   team: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/"}
+- 
+  id: 8
+  name: "Antonio Caro"
+  surname: ""
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/"}

@@ -4,6 +4,7 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.judgesTitle }}</h3>
+            {% comment %}
             <div class="row">
                 {% assign animationDelay = 0 %} {% for judge in site.data.judges %} 
                 {% assign colWidth = 12 | divided_by: forloop.length %}
@@ -20,6 +21,7 @@
                 {% endif %} 
                 {% endfor %}
             </div>
+            {% endcomment %}
         </div>
     </div>
 </section>

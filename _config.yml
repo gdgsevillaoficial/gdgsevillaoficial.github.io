@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2023"
+title: "GDG DevFest Sevilla 2023"
 email: "sevillagdg@gmail.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "GDG DevFest son un conjuntos de eventos llevados a cabo alrededor de todo el mundo"
 baseurl: ""
 url: "http://gdgsevillaoficial.github.io"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -29,7 +29,7 @@ organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, sevilla, ml"
-twitterAccount: "@DevFest"
+twitterAccount: "@GDGSevilla"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -54,10 +54,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "<typeout> 2023"
+heroTitle: "GDG <typeout> 2023"
 eventDate: "Verano, 2023"
-typeoutTextValues: '"GDG Devfest", "HispalisTech"'
-typeoutFallback: "HispalisTech"
+typeoutTextValues: '"Devfest", "Sevilla", "Temporada", "Andalucía"'
+typeoutFallback: "DevFest"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Conviertete en speaker"}
  - {permalink: "javascript:;", text: "Tickets proximamente"}
@@ -213,7 +213,7 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
+teamBlockTitle: "Sobre nosotros"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
@@ -230,7 +230,7 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Vive Sevilla"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
