@@ -65,7 +65,7 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre los GDG DevFest"
 aboutBlock:
- - {title: "", image: "conference.jpg", text: "El mayor evento relacionado con Google para la comunidad local, diseñado para vosotros por la comunidad de GDG. ¡Impresionantes ponencias y mucho que aprender!" }
+ - {title: "", image: "conference.jpg", text: "Devfest es una conferencia tecnológica anual organizada por la comunidad de Google Developers Group Sevilla. Un evento de un día dedicado a las tecnologías informáticas con charlas y talleres impartidos por expertos en el sector. Devfest se presenta como una gran oportunidad para conocer y aprender sobre diversas tecnologías, así como para hacer networking con otros profesionales del sector." }
 #  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 #  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
@@ -214,7 +214,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Sobre nosotros"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "Los servicios de Google se han convertido en sinónimo de cosas sencillas en Internet. El número de innovaciones tecnológicas e industrias de TI en las que Google está creando nuevos productos es enorme. Es difícil conocerlos todos, pero es realista. Por eso la gente ha empezado a reunirse en pequeños grupos locales y a compartir sus experiencias. Posteriormente, estos grupos se han denominado Grupos de Desarrolladores de Google. Los GDG pueden adoptar muchas formas: desde unas pocas personas que se reúnen para ver algunos vídeos, hasta grandes encuentros con demostraciones, charlas técnicas, hackathones y conferencias."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

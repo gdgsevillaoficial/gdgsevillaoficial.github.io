@@ -19,13 +19,12 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
     - {name: "twitter", link: "twitter.com/__localhost_"}
 - 
   id: 2
   name: "Juan Carlos Gomez"
   surname: "@JuaGomRam"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: gdglogo.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -75,15 +74,15 @@
   id: 8
   name: "Pablo Rendón"
   surname: ""
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: gdglogo.jpg
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/"}
 - 
   id: 8
   name: "Antonio Caro"
-  surname: ""
-  thumbnailUrl: ValentynShybanov.jpg
+  surname: "NotAnto98"
+  thumbnailUrl: gdglogo.jpg
   team: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "twitter", link: "https://twitter.com/NotAnto98"}

@@ -1,4 +1,4 @@
 - 
   group: "Organizador principal"
   elements: 
-    - {name: "GDG Sevilla", description: "GDG Sevilla - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Sevilla", description: "GDG Sevilla - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "logo-dark.svg"}
