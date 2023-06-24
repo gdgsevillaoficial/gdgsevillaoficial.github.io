@@ -22,32 +22,6 @@
     - {name: "twitter", link: "twitter.com/__localhost_"}
 - 
   id: 2
-  name: "Juan Carlos Gomez"
-  surname: "@JuaGomRam"
-  thumbnailUrl: gdglogo.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/JuaGomRam"}
-- 
-  id: 3
-  name: "Adrià León"
-  surname: "@Adrialeogar"
-  thumbnailUrl: adria.jpg
-  team: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/Adrialeogar"}
-- 
-  id: 4
-  name: "Miguel González"
-  surname: "@MiguelGlezVi"
-  thumbnailUrl: miguel.jpg
-  team: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/MiguelGlezVi"}
-- 
-  id: 5
   name: "Álvaro Sanz"
   surname: "@alvarosb76"
   thumbnailUrl: alvaro.jpg
@@ -55,34 +29,10 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/alvarosb76"}
 - 
-  id: 6
+  id: 3
   name: "Carlos Acuña"
   surname: "@Acunnia"
   thumbnailUrl: acunnia.png
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/Acunnia"}
-- 
-  id: 7
-  name: "Manuel Manga"
-  surname: "@manmanrod"
-  thumbnailUrl: manu.jpg
-  team: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/manmanrod"}
-- 
-  id: 8
-  name: "Pablo Rendón"
-  surname: ""
-  thumbnailUrl: gdglogo.jpg
-  team: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/"}
-- 
-  id: 8
-  name: "Antonio Caro"
-  surname: "NotAnto98"
-  thumbnailUrl: gdglogo.jpg
-  team: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/NotAnto98"}
